@@ -1,0 +1,15 @@
+C:\Users\Usuário\csharp-fundamentals\TimesTables\bin\Debug\net9.0\TimesTables.exe
+C:\Users\Usuário\csharp-fundamentals\TimesTables\bin\Debug\net9.0\TimesTables.deps.json
+C:\Users\Usuário\csharp-fundamentals\TimesTables\bin\Debug\net9.0\TimesTables.runtimeconfig.json
+C:\Users\Usuário\csharp-fundamentals\TimesTables\bin\Debug\net9.0\TimesTables.dll
+C:\Users\Usuário\csharp-fundamentals\TimesTables\bin\Debug\net9.0\TimesTables.pdb
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.AssemblyInfoInputs.cache
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.AssemblyInfo.cs
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.sourcelink.json
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.dll
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\refint\TimesTables.dll
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.pdb
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\TimesTables.genruntimeconfig.cache
+C:\Users\Usuário\csharp-fundamentals\TimesTables\obj\Debug\net9.0\ref\TimesTables.dll
