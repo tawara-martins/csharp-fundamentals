@@ -1,0 +1,15 @@
+C:\Users\Usuário\csharp-fundamentals\Notes\bin\Debug\net9.0\Notes.exe
+C:\Users\Usuário\csharp-fundamentals\Notes\bin\Debug\net9.0\Notes.deps.json
+C:\Users\Usuário\csharp-fundamentals\Notes\bin\Debug\net9.0\Notes.runtimeconfig.json
+C:\Users\Usuário\csharp-fundamentals\Notes\bin\Debug\net9.0\Notes.dll
+C:\Users\Usuário\csharp-fundamentals\Notes\bin\Debug\net9.0\Notes.pdb
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.AssemblyInfo.cs
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.sourcelink.json
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.dll
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\refint\Notes.dll
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.pdb
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\Notes.genruntimeconfig.cache
+C:\Users\Usuário\csharp-fundamentals\Notes\obj\Debug\net9.0\ref\Notes.dll
