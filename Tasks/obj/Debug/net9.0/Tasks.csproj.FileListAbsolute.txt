@@ -1,0 +1,15 @@
+C:\Users\Usuário\csharp-fundamentals\Tasks\bin\Debug\net9.0\Tasks.exe
+C:\Users\Usuário\csharp-fundamentals\Tasks\bin\Debug\net9.0\Tasks.deps.json
+C:\Users\Usuário\csharp-fundamentals\Tasks\bin\Debug\net9.0\Tasks.runtimeconfig.json
+C:\Users\Usuário\csharp-fundamentals\Tasks\bin\Debug\net9.0\Tasks.dll
+C:\Users\Usuário\csharp-fundamentals\Tasks\bin\Debug\net9.0\Tasks.pdb
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfo.cs
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.sourcelink.json
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.dll
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\refint\Tasks.dll
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.pdb
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\Tasks.genruntimeconfig.cache
+C:\Users\Usuário\csharp-fundamentals\Tasks\obj\Debug\net9.0\ref\Tasks.dll
